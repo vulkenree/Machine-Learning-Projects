@@ -13,8 +13,17 @@ If we are targetting a certain number of customers for the campaign and there is
 Below you can find the ROC curves for the best decision tree model which resuted in a AUC of 0.75
 
 <figure>
-  <img src="images/ROC Curve for DTree.png" width="70%" height="60%">
+  <img src="images/ROC Curve for DTree.png" width="50%" height="40%">
   <figcaption>
   ROC curve for the best Decision Tree model which resulted in an AUC of 0.75.
+  </figcaption>
+</figure>
+
+I ended up generating a lift curves as well that shows the lift in true positives the model will prodcuce for each deciles ordered by their height probability of being classified as candidates to accept the bank marketing campaign.
+
+<figure>
+  <img src="images/Lift and Cumulative Gains Curve for DTree.png" width="80%" height="60%">
+  <figcaption>
+  Lift Curve for the Decision Tree model
   </figcaption>
 </figure>
