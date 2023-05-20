@@ -1,6 +1,9 @@
 ## Problem Description
 **Overview**: In this exercise, my goal is to predict the outcome of a Marketing bank products over telephone using different classifiers. Goal is to compare the performance of different popular classifiers, namely K Nearest Neighbor, Logistic Regression, Decision Trees, and Support Vector Machines their hyper parameters and additional techniaues we could use to optimize for certin desired outcomes.
 
+## Exploratory Data Analysis
+Please refer to [this](eda-report.html) generated using the sweetviz python library.
+
 ## Summary
 Based on the f1 scores Decision Tree produced the best model.
 
@@ -36,3 +39,9 @@ I ended up generating a lift curves as well that shows the lift in true positive
 
 
 ** I used a python library to create the lift curves, I think the 'wizard' legends are for showing the performance of a best case hypothetical model or a model with some god mode predicitons :).
+
+
+## Additional Steps to try for future improvements
+- [ ] Try Ordinal features for some of the categorical variables
+- [ ] Try SVM with more hypter parameters and more data
+- [ ] More hyper parameters in grid search for all classifier models.
