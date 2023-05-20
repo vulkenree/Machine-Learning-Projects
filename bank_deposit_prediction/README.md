@@ -29,7 +29,7 @@ Below you can find the ROC curves for the best decision tree model which resuted
 I ended up generating a lift curves as well that shows the lift in true positives the model will prodcuce for each deciles ordered by their height probability of being classified as candidates to accept the bank marketing campaign.
 
 <figure>
-  <img src="images/Lift and Cumulative Gains Curve for DTree.png" width="80%" height="60%">
+  <img src="images/Lift and Cumulative Gains Curve for DTree.png">
   <figcaption>
   Lift Curve for the Decision Tree model
   </figcaption>
