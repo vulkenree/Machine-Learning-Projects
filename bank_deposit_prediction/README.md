@@ -10,6 +10,10 @@ The predict proba threshold can be a way to find the right trade off that busine
 
 If we are targetting a certain number of customers for the campaign and there is a significant amount fo cost for each campaign, I recommend looking at the lift curves and identifying a threasholds that have better lift to achieve desired outcomes.
 
+
+### Visual plots for ROC and Lift curves for the best model
+
+**ROC**
 Below you can find the ROC curves for the best decision tree model which resuted in a AUC of 0.75
 
 <figure>
@@ -19,6 +23,9 @@ Below you can find the ROC curves for the best decision tree model which resuted
   </figcaption>
 </figure>
 
+
+
+**Lift Curves**
 I ended up generating a lift curves as well that shows the lift in true positives the model will prodcuce for each deciles ordered by their height probability of being classified as candidates to accept the bank marketing campaign.
 
 <figure>
