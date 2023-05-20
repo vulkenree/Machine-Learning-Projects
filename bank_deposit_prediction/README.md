@@ -26,10 +26,13 @@ Below you can find the ROC curves for the best decision tree model which resuted
 <br>
 **Lift Curves**
 I ended up generating a lift curves as well that shows the lift in true positives the model will prodcuce for each deciles ordered by their height probability of being classified as candidates to accept the bank marketing campaign.
-\
+
 <figure>
   <img src="images/Lift and Cumulative Gains Curve for DTree.png">
   <figcaption>
   Lift Curve for the Decision Tree model
   </figcaption>
 </figure>
+
+
+** I used a python library to create the lift curves, I think the 'wizard' legends are for showing the performance of a best case hypothetical model or a model with some god mode predicitons :).
