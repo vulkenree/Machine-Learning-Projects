@@ -13,7 +13,7 @@ If we are targetting a certain number of customers for the campaign and there is
 Below you can find the ROC curves for the best decision tree model which resuted in a AUC of 0.75
 
 <figure>
-  <img src="images/ROC Curve for DTree.jpg">
+  <img src="images/ROC Curve for DTree.png">
   <figcaption>
   ROC curve for the best Decision Tree model which resulted in an AUC of 0.75.
   </figcaption>
