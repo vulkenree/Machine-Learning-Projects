@@ -1,0 +1,4 @@
+[core]
+    remote = s3-flight-pred-dvc-bucket
+['remote "s3-flight-pred-dvc-bucket"']
+    url = s3://ageorge-flight-usage-prediction-dvc-repo/data/
