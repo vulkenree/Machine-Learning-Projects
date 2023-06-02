@@ -47,14 +47,13 @@ When I started this, I was under the impression that it is going to be really ha
 
 The following is the summary of different regression models
 
-| Model                   | Mean Squared Error (MSE) | Root Mean Squared Error (RMSE) | Mean Absolute Error (MAE) | Mean Absolute Percentage Error   (MAPE) | R^2 Score |      |
-|-------------------------|--------------------------|--------------------------------|---------------------------|-----------------------------------------|-----------|------|
-| Linear Regression       | 21.53                    | 4.64                           | 3.64                      | 10.11                                   | 0.42      | 0.42 |
-| Ridge Regression        | 21.53                    | 4.64                           | 3.64                      | 10.11                                   | 0.42      | 0.42 |
-| Lasso Regression        | 21.53                    | 4.64                           | 3.64                      | 10.11                                   | 0.42      | 0.42 |
-| Random Forest  | 17.99                    | 4.24                           | 3.15                      | 5.58                                    | 0.52      | 0.52 |
-| AdaBoost       | 24.36                    | 4.94                           | 3.85                      | 8.58                                    | 0.35      | 0.35 |
-
+| Model                   | Mean Squared Error (MSE) | Root Mean Squared Error (RMSE) | Mean Absolute Error (MAE) | Mean Absolute Percentage Error   (MAPE) | R^2 Score |
+|-------------------------|--------------------------|--------------------------------|---------------------------|-----------------------------------------|-----------|
+| Linear Regression       | 21.53                    | 4.64                           | 3.64                      | 10.11                                   | 0.42      |
+| Ridge Regression        | 21.53                    | 4.64                           | 3.64                      | 10.11                                   | 0.42      |
+| Lasso Regression        | 21.53                    | 4.64                           | 3.64                      | 10.11                                   | 0.42      |
+| Random Forest Regressor | 17.99                    | 4.24                           | 3.15                      | 5.58                                    | 0.52      |
+| AdaBoost Regressor      | 24.36                    | 4.94                           | 3.85                      | 8.58                                    | 0.35      |
 
 ## Next steps
 
