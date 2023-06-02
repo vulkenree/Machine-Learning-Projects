@@ -57,7 +57,9 @@ The following is the summary of different regression models
 
 ## Next steps
 
-I was using one month of data ( about 50 million records ) for this project so I was not able to incorporate the seasonal nature of airline traffic that I gathered from US Dept of transportation. I would like to add that in as a translation for the month feature, as well as predict out the retunk link usage/demand in Mbps per 5 mins.
+- [ ]  I was using one month of data ( about 50 million records ) for this project so I was not able to incorporate the seasonal nature of airline traffic that I gathered from US Dept of transportation. I would like to add that in as a translation for the month feature, as well as predict out the retunk link usage/demand in Mbps per 5 mins.
+
+- [ ]  Try using automl
 
 ## Outline of project
 
