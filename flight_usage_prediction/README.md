@@ -40,6 +40,7 @@ In addition to this, data available to me from my company -- Don't want to call 
 
 Using different regression models to predict a real valued output which is the forward link demand in Mbps per tail per 5 min
 
+
 ## Results
 
 When I started this, I was under the impression that it is going to be really hard to predict user behaviours and how much internet will any aircraft use at any 5 mins in time. But after identifying several key features and feature translations, I was able to come up with a prediciton algorithm which produced an R2 score of 0.56, MAPE score of 5.15 and MAE of 3.19 on the test data.
@@ -63,11 +64,11 @@ The following is the summary of different regression models
 
 ## Outline of project
 
-- [flight_internet_usage_prediction.ipynb]()
+- Main projet notebook [flight_internet_usage_prediction.ipynb]()
 
-- [animations] under animations
+- Few Animations under [animations]()
 
-- [images] EDA, Feature dependency viz, Feature importance of best Model
+- EDA, Feature dependency viz, Feature importance of best Model [images]()
 
 ## Contact and Further Information
 <anand.george89@gmail.com>
